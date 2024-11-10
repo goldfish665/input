@@ -1,0 +1,15 @@
+input, kullanicinin klavye verisi gitmesini saglayan bir fonksiyondur. fonksiyon ismi=> "input()"
+eger kullanilmak isteniyorsa once degisken olusturulmalidir. degisken olustuktan sonra input cagirilir.
+girdi fonksiyonunun icerisine istenirse kullaniciya bilgi verilebilir.
+bu bilgi string(str) olarak tanimlanir.
+ornek;
+renk=input("bir renk giriniz:")
+print("secilen renk {}".format(renk))
+
+baska bir ornek;
+sayi=input("bir sayi giriniz:")
+print("secilen sayi {}".format(sayi))
+
+hayvan=input("bir hayvan ismi yaziniz:")
+print("secilen hayvan {}".format(hayvan))
+vb. sekillerde kullanilabilir.
