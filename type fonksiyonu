@@ -1,0 +1,10 @@
+type() => fonksiyonu, verilerin turlerini gosterir.
+ornegin;
+h=19 
+h_tipi=type(h)
+print("{} verisinin turu: {}".format(x,x_tipi))
+
+bunu inputla birlestirirsek;
+r=input("bir sayi giriniz:)
+r_tipi=type(r)
+print("{} verisinin turu:{}".format(r,r_tipi))
