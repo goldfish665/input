@@ -1,1 +1,1 @@
-# input
+# input ve type fonksiyonu
